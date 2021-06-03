@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The petition of the nobilitie, gentrie, burrows, ministers, and Commons of the Kingdom of Scotland, to the lords of His Majesties most honourable Privie Councell.</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90601</idno><idno type="EEBO-CITATION">99871536</idno>
+  <idno type="VID">156759</idno>
+  <idno type="EEBO-PROQUEST">2240944951</idno>
+  
+            <idno type="STC">Wing P1824</idno>
+            <idno type="STC">Thomason E150_25</idno>
+            <idno type="STC">ESTC R21901</idno>
+            <idno type="PROQUEST">99871536</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99871536e"/>
+            <note>(EEBO-TCP ; phase 2, no. A90601)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156759)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 27:E150[25])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The petition of the nobilitie, gentrie, burrows, ministers, and Commons of the Kingdom of Scotland, to the lords of His Majesties most honourable Privie Councell.</title>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Robert Barker, Printer to the Kings most Excellent Majestie: And by the Assignes of John Bill,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "of Scotland".</note>
+                  <note>Another edition has imprint in four lines instead of five.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Scotland. --  Privy Council --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Scotland --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156759:1"/>
+            <p>THE PETITION OF THE <hi>Nobilitie, Gentrie, Burrows, Ministers,</hi> and <hi>Commons</hi> OF The Kingdom of SCOTLAND, TO The Lords of His MAjESTIES most Honourable PRIVIE COUNCELL.</p>
+            <p>LONDON: Printed by ROBERT BARKER, Printer to the Kings most Excellent Majestie: And by the Assignes of JOHN BILL.</p>
+            <p>1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:156759:2"/>
+            <pb n="1" facs="tcp:156759:2"/>
+            <head>The PETITION of the Nobilitie, Gentrie, Burrows, Ministers, and Commons,</head>
+            <head type="sub">
+               <hi>To the right Honourable the Lords of His Maiesties most Honourable Privie Councell</hi>
+            </head>
+            <opener>Humbly sheweth,</opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat whereas the Kings most Sa<g ref="char:EOLhyphen"/>cred Majestie His Royall Zeal and constant Resolution of main<g ref="char:EOLhyphen"/>taining the true Religion, and preserving the Laws and Liberties of these His Kingdoms is so undoubted, that to call it in question after so many reiterated Pro<g ref="char:EOLhyphen"/>fessions and Asseverations emitted in His Maje<g ref="char:EOLhyphen"/>sties Declarations and Answers, with deep At<g ref="char:EOLhyphen"/>testations
+<pb n="2" facs="tcp:156759:3"/> of the dreadfull Searcher of the hearts, as witnesse of the sincerity of His Royall heart, could not be conserved in any but an unchristian distrustfulnesse; And in us His Majesties Sub<g ref="char:EOLhyphen"/>jects of this His ancient and Native Kingdom, the height of disloyalty and ingratitude, if we should harbour any scruple or thought to the contrary, having so many reall and recent evi<g ref="char:EOLhyphen"/>dences of His Majesties Royall Goodnesse, Ju<g ref="char:EOLhyphen"/>stice, and Wisdom, in setling and establishing the true Religion, and the Laws and Liberties of this His Kingdom, to the full satisfaction of all His good Subjects: And neverthelesse, per<g ref="char:EOLhyphen"/>ceiving by His Majesties Declarations and other Printed Papers, that foul and malicious aspersi<g ref="char:EOLhyphen"/>ons are cast upon His Majestie, tending to brand His Sacred Person, and to deprave His Royall Government: And understanding by His Majesties late LETTER sent unto your Lordships, that His Majestie, out of His singular Goodnesse and desire to enjoy the hearts of His People of this His Native Kingdom, free of all jealousies and Prejudices, hath been pleased to clear His Royall Intenti<g ref="char:EOLhyphen"/>ons and Actions from those Calumnious Impu<g ref="char:EOLhyphen"/>tations;
+<pb n="3" facs="tcp:156759:3"/> And therefore justly challengeth from us that humble respect due to His Sacred Maje<g ref="char:EOLhyphen"/>stie, by so many Tyes and Titles, and so much professed and promised by us with solemn Oaths in our Nationall Covenant and Oath at His Majesties Coronation; We conceive our selves bound in dutie to God Almightie, by whose great Name we have sworn to defend and maintain the Person, Greatnesse, and Au<g ref="char:EOLhyphen"/>thority of our dread Soveraign as Gods Vicege<g ref="char:EOLhyphen"/>rent, to the uttermost of our power, with our means and lives, in every cause which may con<g ref="char:EOLhyphen"/>cern His Honour, as may appear by that which by Warrant of the Act of generall Assembly we have all sworn and signed, and to our King and Countrey, and to that we ow to our Honour and Reputation, To represent to your Lordships the humble desires we have to expresse and make known to His Majestie and all the world, that we are fully satisfied and perswaded of His Ma<g ref="char:EOLhyphen"/>jesties Royall Zeal and resolution, and that ma<g ref="char:EOLhyphen"/>lice and detraction can not prevail to make the least impression in Our Loyall hearts of Jealou<g ref="char:EOLhyphen"/>sie or distrust.</p>
+            <p>And therefore we have taken the boldnesse
+<pb n="4" facs="tcp:156759:4"/> humbly to petition your Lordships for our selves, and in name and behalf of all others who will adhere to this our Petition, that as His Majestie has graciously condescended in His Letter to your Lordships, and printed by your Warrant, for sa<g ref="char:EOLhyphen"/>tisfaction of His good subjects, to expresse His Royall goodnesse and desire that all grounds of jealousie or mistaking may be kept and remo<g ref="char:EOLhyphen"/>ved out of the hearts of His good Subjects of this Kingdom:</p>
+            <p>So it may please your Lordships to think upon some course, that His Majestie reciprocally may be cleered and assured of our constant affection and resolution to keep our solemn and Nationall Oath, and that we are not so unthankfull to God or to His Vicegerent, nor so little tender of our own honour and credit, as to forget so soon that duty incumbent to us by so many obligations, and so often promised by us in our foresaid solemn Oaths, which are published to the view of all the world, and we are confident that in so doing we cannot be misconstrued, as if we in<g ref="char:EOLhyphen"/>tended any thing to the prejudice of that Brother<g ref="char:EOLhyphen"/>ly and blessed Conjunction of the two Nations, happily united by Allegiance &amp; loyall subjection
+<pb n="5" facs="tcp:156759:4"/> to one Soveraign and Head, and solemnly con<g ref="char:EOLhyphen"/>firmed by His Majesties own consent, by Acts of Parliament of both Kingdoms, or to foment jealousies and mistakings at home amongst our selves, seeing our desire neither of it self doth tend, nor by us is intended (as we attest God the searcher of all hearts) for any other end but for the performance of that humble dutie to our Dread and Native King, to which we conceive our selves strictly bound by all the Tyes of Na<g ref="char:EOLhyphen"/>ture, Christianity, and Gratitude, and there<g ref="char:EOLhyphen"/>fore we doubt not but all His Majesties good Sub<g ref="char:EOLhyphen"/>jects will joyn with us in this our humble and just desire; and that your Lordships in the deep<g ref="char:EOLhyphen"/>nesse of your Wisdoms will contribute hereto: And your Lordships Answer most humbly we crave.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
